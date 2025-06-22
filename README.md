@@ -1,6 +1,7 @@
 # 📦 `awsctx` — Simple AWS CLI Profile Manager
-
 `awsctx` is a lightweight Bash utility that helps you manage multiple AWS CLI profiles. It supports:
+
+![enter image description here](./assets/demo.gif)
 
 - ➕ Adding new profiles
 - 🔁 Switching the default profile
